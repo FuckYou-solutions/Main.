@@ -1,0 +1,1 @@
+import"./LangSwitcher.astro_astro_type_script_index_0_lang.fCZoxw9s.js";const s=document.getElementsByClassName("key-selector"),c=async e=>{const n=e.srcElement;n.innerHTML="...";const t=o=>{n.innerHTML=o.key.toUpperCase(),document.removeEventListener("keydown",t)};document.addEventListener("keydown",t)};for(const e of s)e.addEventListener("click",c);
